@@ -1,6 +1,4 @@
-# Low-Light Stereo Image Enhancement
-
-**Accepted by TMM 2022**
+# Low-Light Stereo Image Enhancement (TMM 2022)
 
 Jie Huang, Xueyang Fu, Zeyu Xiao, Feng Zhao, and Zhiwei Xiong(*)
 
@@ -34,7 +32,7 @@ python train.py --opt options/train/train_Enhance_Middlebury.yml or train_Enhanc
 ### 3. Inference
 
 ```python
-python test.py --opt options/train/train_Enhance_Middlebury.yml or train_Enhance_Holopix.yml
+python eval.py 
 ```
 
 ## Dataset
