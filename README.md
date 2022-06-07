@@ -20,22 +20,22 @@ Overall, most parameters can be set in options/train/train_Enhance_Holopix.yml o
 
 Create a .txt file to put the path of the dataset using 
 
-``python
+```python
 python create_txt.py
-``
+```
 
 ### 2. Training
 
-``python
+```python
 python train.py --opt options/train/train_Enhance_Middlebury.yml or train_Enhance_Holopix.yml
-``
+```
 
 
 ### 3. Inference
 
-``python
+```python
 python test.py --opt options/train/train_Enhance_Middlebury.yml or train_Enhance_Holopix.yml
-``
+```
 
 ## Dataset
 
@@ -50,7 +50,7 @@ If you have any problem with the released code, please do not hesitate to contac
 
 ## Cite
 
-``
+```
 @ARTICLE{9720943,
   author={Huang, Jie and Fu, Xueyang and Xiao, Zeyu and Zhao, Feng and Xiong, Zhiwei},
   journal={IEEE Transactions on Multimedia}, 
@@ -60,4 +60,4 @@ If you have any problem with the released code, please do not hesitate to contac
   number={},
   pages={1-1},
   doi={10.1109/TMM.2022.3154152}}
-``
+```
