@@ -12,7 +12,7 @@ This repository is the **official implementation** of the paper, "Low-Light Ster
 
 ### 0. Hyper-Parameters setting
 
-Overall, most parameters can be set in options/train/train_Enhance_Holopix.yml or options/train/train_Enhance_Holopix.yml or train_Enhance_Midddlebury.yml
+Overall, most parameters can be set in options/train/train_Enhance_Holopix.yml or options/train/train_Enhance_Midddlebury.yml
 
 ### 1. Dataset Preparation
 
