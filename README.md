@@ -1,7 +1,5 @@
 # Low-Light Stereo Image Enhancement (TMM 2022)
 
-TMM 2022
-
 Jie Huang, Xueyang Fu, Zeyu Xiao, Feng Zhao, and Zhiwei Xiong(*)
 
 *Corresponding Author
