@@ -37,9 +37,13 @@ python eval.py
 
 ## Dataset (coming soon)
 
-Our genenerated Holopix50k dataset 
+Holopix50k dataset 
+train/test folder(ground truth)
+test_real folder(no ground truth)
 
-Middlebury dataset
+Middlebury dataset 
+
+## Our final results (coming soon)
 
 
 ## Contact
