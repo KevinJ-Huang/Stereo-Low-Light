@@ -81,8 +81,8 @@ class Net(nn.Module):
     def __init__(self, upscale_factor=1.0):
         super(Net, self).__init__()
         self.upscale_factor = upscale_factor
-        G0 = 4
-        G = 2
+        G0 = 16
+        G = 8
 
         self.pre_enhance = PreEnhance()
         self.blur = GaussianBlur().cuda()
